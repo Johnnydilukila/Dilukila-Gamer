@@ -1,0 +1,119 @@
+@charset "UTF-8";
+body{
+    font-family: "Comic sans MS";
+    margin-bottom: 20px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}
+header{
+    background-color: #0000FF;
+    top: 0;
+    width: 90%;
+    overflow: hidden;
+    position: sticky;
+    margin: auto;
+    min-height: 3px;
+}
+.jd{
+    color: white;
+    margin-left: 5px;
+    float: left;
+    padding: 3px;
+    font-size: 13px;
+}
+ul{
+    list-style-type: none;
+}
+li>a{
+    color: white;
+    text-decoration: none;
+    margin-right: 18px;
+    float: right;
+    padding: 13px;
+}
+li>a:hover{
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+.menu{
+    text-align: center;
+    padding: 50px;
+}
+.img{
+background-image: url("img/PPSSPP\ Gold\ v1.9.3\ -\ C19D01598\ _\ eFootball\ Chelito\ 19\ 18_03_2024\ 02_52_33.png");
+background-repeat: no-repeat;
+  width: 800px;
+    height: 400px;
+    margin: auto;
+    padding: 29px;
+    border-radius: 10px;
+    border: 1px solid blue;
+    
+}
+div>h3{
+    color: white;
+    padding: 30px;
+    padding-bottom: 20px;
+    font-size: 2em;
+}
+div>a{
+    color: white;
+    text-decoration: none;
+    margin-left: 29px;
+    margin-right: 29px;
+    padding: 18px;
+    padding-bottom: 15px;
+    background-color: #0000FF;
+    border-radius: 50px;
+    border: 1px solid black;
+    
+}
+#b{
+   
+    padding-left: 40px;
+    padding-right: 40px;
+
+    background-color: #0000FF;
+    border-radius: 50px;
+    border: 1px solid black;
+    
+}
+#j{
+   
+    padding-left: 40px;
+    padding-right: 40px;
+
+    background-color: #0000FF;
+    border-radius: 50px;
+    border: 1px solid black;
+    
+}
+div>a:hover{
+    transition-duration: 20px;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 50px;
+    font-size: 3em;
+
+}
+.jogos>abbr>img:hover{
+    width: 350px;
+    transition: 0.60s ease-in-out;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    
+}
+#ultimo{
+    text-align: center;
+    text-decoration: none;
+    
+}
